@@ -7,12 +7,7 @@ This repository contains a hand gesture recognition model built using Convolutio
 - [Installation](#installation)
 - [Dataset](#dataset)
 - [Model Architecture](#model-architecture)
-- [Training](#training)
-- [Evaluation](#evaluation)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation
 
